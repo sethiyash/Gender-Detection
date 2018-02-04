@@ -1,0 +1,3 @@
+Prediction of Gender using voice or speech data
+
+The Data Sample is taken from Kaggle with around 3000 Data Samples. These Data Samples are preprocessed according to the different acoustic properties. The Various Machine Algorithms are applied to train the model. From the data sample around 80% of data is used for training purpose and rest 20% is used for testing the accuracy of several models. Machine algorithms we used to train the model are Decision Tree, Random Forest, Support Vector Machine, Neural Network. The Best results we are getting on Support Vector Machine with around 0.98 of accuracy on the testing data.
